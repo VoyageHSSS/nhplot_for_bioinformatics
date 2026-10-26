@@ -1,0 +1,10 @@
+{
+  "params": {
+    "env_path": "data/4-逐环境变量的OTU分组Mantel图/4-逐环境变量的OTU分组Mantel图_环境表.tsv",
+    "otu_path": "data/4-逐环境变量的OTU分组Mantel图/4-逐环境变量的OTU分组Mantel图_OTU计数表.tsv",
+    "group_path": "data/4-逐环境变量的OTU分组Mantel图/4-逐环境变量的OTU分组Mantel图_OTU分组.csv",
+    "p_adjust": "BH",
+    "seed": 363,
+    "permutations": 999
+  }
+}
