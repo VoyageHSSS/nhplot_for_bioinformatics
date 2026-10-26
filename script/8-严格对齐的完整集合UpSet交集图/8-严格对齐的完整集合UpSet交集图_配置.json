@@ -1,0 +1,24 @@
+{
+  "params": {
+    "set_files": [
+      "data/8-严格对齐的完整集合UpSet交集图/8-严格对齐的完整集合UpSet交集图_BLCA.tsv",
+      "data/8-严格对齐的完整集合UpSet交集图/8-严格对齐的完整集合UpSet交集图_ESCA.tsv",
+      "data/8-严格对齐的完整集合UpSet交集图/8-严格对齐的完整集合UpSet交集图_LIHC.tsv",
+      "data/8-严格对齐的完整集合UpSet交集图/8-严格对齐的完整集合UpSet交集图_MESO.tsv",
+      "data/8-严格对齐的完整集合UpSet交集图/8-严格对齐的完整集合UpSet交集图_PCPG.tsv",
+      "data/8-严格对齐的完整集合UpSet交集图/8-严格对齐的完整集合UpSet交集图_TGCT.tsv",
+      "data/8-严格对齐的完整集合UpSet交集图/8-严格对齐的完整集合UpSet交集图_UVM.tsv"
+    ],
+    "set_labels": [
+      "PCPG",
+      "TGCT",
+      "LIHC",
+      "MESO",
+      "UVM",
+      "BLCA",
+      "ESCA"
+    ],
+    "max_intersections": 50,
+    "order_by": "freq"
+  }
+}

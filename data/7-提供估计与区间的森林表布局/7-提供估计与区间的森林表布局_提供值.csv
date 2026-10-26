@@ -1,0 +1,10 @@
+risk_factor,estimate,lower,upper,p_value,contribution,pooled
+Biomarker_A,0.94,0.91,0.98,0.001,7.9,FALSE
+Pathway_B,0.98,0.96,1.00,0.106,18.0,FALSE
+Clinical_Age,0.99,0.96,1.02,0.501,12.5,FALSE
+Genotype_T,1.04,1.01,1.07,0.007,13.4,FALSE
+Diet_Score,1.02,0.98,1.06,0.310,7.4,FALSE
+Metabolic_M,1.00,0.96,1.04,1.000,6.8,FALSE
+Systolic_BP,1.00,0.98,1.02,1.000,19.6,FALSE
+Lifestyle_L,1.01,0.98,1.04,0.475,14.4,FALSE
+Pooled Summary,1.00,0.99,1.01,,100.0,TRUE
