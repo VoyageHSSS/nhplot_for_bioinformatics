@@ -1,0 +1,421 @@
+country	year	lifeExp	continent
+Algeria	1957	45.685	Africa
+Algeria	2002	70.994	Africa
+Algeria	2007	72.301	Africa
+Angola	1957	31.999	Africa
+Angola	2002	41.003	Africa
+Angola	2007	42.731	Africa
+Benin	1957	40.358	Africa
+Benin	2002	54.406	Africa
+Benin	2007	56.728	Africa
+Botswana	1957	49.618	Africa
+Botswana	2002	46.634	Africa
+Botswana	2007	50.728	Africa
+Burkina Faso	1957	34.906	Africa
+Burkina Faso	2002	50.65	Africa
+Burkina Faso	2007	52.295	Africa
+Burundi	1957	40.533	Africa
+Burundi	2002	47.36	Africa
+Burundi	2007	49.58	Africa
+Cameroon	1957	40.428	Africa
+Cameroon	2002	49.856	Africa
+Cameroon	2007	50.43	Africa
+Central African Republic	1957	37.464	Africa
+Central African Republic	2002	43.308	Africa
+Central African Republic	2007	44.741	Africa
+Chad	1957	39.881	Africa
+Chad	2002	50.525	Africa
+Chad	2007	50.651	Africa
+Comoros	1957	42.46	Africa
+Comoros	2002	62.974	Africa
+Comoros	2007	65.152	Africa
+Congo, Dem. Rep.	1957	40.652	Africa
+Congo, Dem. Rep.	2002	44.966	Africa
+Congo, Dem. Rep.	2007	46.462	Africa
+Congo, Rep.	1957	45.053	Africa
+Congo, Rep.	2002	52.97	Africa
+Congo, Rep.	2007	55.322	Africa
+Cote d'Ivoire	1957	42.469	Africa
+Cote d'Ivoire	2002	46.832	Africa
+Cote d'Ivoire	2007	48.328	Africa
+Djibouti	1957	37.328	Africa
+Djibouti	2002	53.373	Africa
+Djibouti	2007	54.791	Africa
+Egypt	1957	44.444	Africa
+Egypt	2002	69.806	Africa
+Egypt	2007	71.338	Africa
+Equatorial Guinea	1957	35.983	Africa
+Equatorial Guinea	2002	49.348	Africa
+Equatorial Guinea	2007	51.579	Africa
+Eritrea	1957	38.047	Africa
+Eritrea	2002	55.24	Africa
+Eritrea	2007	58.04	Africa
+Ethiopia	1957	36.667	Africa
+Ethiopia	2002	50.725	Africa
+Ethiopia	2007	52.947	Africa
+Gabon	1957	38.999	Africa
+Gabon	2002	56.761	Africa
+Gabon	2007	56.735	Africa
+Gambia	1957	32.065	Africa
+Gambia	2002	58.041	Africa
+Gambia	2007	59.448	Africa
+Ghana	1957	44.779	Africa
+Ghana	2002	58.453	Africa
+Ghana	2007	60.022	Africa
+Guinea	1957	34.558	Africa
+Guinea	2002	53.676	Africa
+Guinea	2007	56.007	Africa
+Guinea-Bissau	1957	33.489	Africa
+Guinea-Bissau	2002	45.504	Africa
+Guinea-Bissau	2007	46.388	Africa
+Kenya	1957	44.686	Africa
+Kenya	2002	50.992	Africa
+Kenya	2007	54.11	Africa
+Lesotho	1957	45.047	Africa
+Lesotho	2002	44.593	Africa
+Lesotho	2007	42.592	Africa
+Liberia	1957	39.486	Africa
+Liberia	2002	43.753	Africa
+Liberia	2007	45.678	Africa
+Libya	1957	45.289	Africa
+Libya	2002	72.737	Africa
+Libya	2007	73.952	Africa
+Madagascar	1957	38.865	Africa
+Madagascar	2002	57.286	Africa
+Madagascar	2007	59.443	Africa
+Malawi	1957	37.207	Africa
+Malawi	2002	45.009	Africa
+Malawi	2007	48.303	Africa
+Mali	1957	35.307	Africa
+Mali	2002	51.818	Africa
+Mali	2007	54.467	Africa
+Mauritania	1957	42.338	Africa
+Mauritania	2002	62.247	Africa
+Mauritania	2007	64.164	Africa
+Mauritius	1957	58.089	Africa
+Mauritius	2002	71.954	Africa
+Mauritius	2007	72.801	Africa
+Morocco	1957	45.423	Africa
+Morocco	2002	69.615	Africa
+Morocco	2007	71.164	Africa
+Mozambique	1957	33.779	Africa
+Mozambique	2002	44.026	Africa
+Mozambique	2007	42.082	Africa
+Namibia	1957	45.226	Africa
+Namibia	2002	51.479	Africa
+Namibia	2007	52.906	Africa
+Niger	1957	38.598	Africa
+Niger	2002	54.496	Africa
+Niger	2007	56.867	Africa
+Nigeria	1957	37.802	Africa
+Nigeria	2002	46.608	Africa
+Nigeria	2007	46.859	Africa
+Reunion	1957	55.09	Africa
+Reunion	2002	75.744	Africa
+Reunion	2007	76.442	Africa
+Rwanda	1957	41.5	Africa
+Rwanda	2002	43.413	Africa
+Rwanda	2007	46.242	Africa
+Sao Tome and Principe	1957	48.945	Africa
+Sao Tome and Principe	2002	64.337	Africa
+Sao Tome and Principe	2007	65.528	Africa
+Senegal	1957	39.329	Africa
+Senegal	2002	61.6	Africa
+Senegal	2007	63.062	Africa
+Sierra Leone	1957	31.57	Africa
+Sierra Leone	2002	41.012	Africa
+Sierra Leone	2007	42.568	Africa
+Somalia	1957	34.977	Africa
+Somalia	2002	45.936	Africa
+Somalia	2007	48.159	Africa
+South Africa	1957	47.985	Africa
+South Africa	2002	53.365	Africa
+South Africa	2007	49.339	Africa
+Sudan	1957	39.624	Africa
+Sudan	2002	56.369	Africa
+Sudan	2007	58.556	Africa
+Swaziland	1957	43.424	Africa
+Swaziland	2002	43.869	Africa
+Swaziland	2007	39.613	Africa
+Tanzania	1957	42.974	Africa
+Tanzania	2002	49.651	Africa
+Tanzania	2007	52.517	Africa
+Togo	1957	41.208	Africa
+Togo	2002	57.561	Africa
+Togo	2007	58.42	Africa
+Tunisia	1957	47.1	Africa
+Tunisia	2002	73.042	Africa
+Tunisia	2007	73.923	Africa
+Uganda	1957	42.571	Africa
+Uganda	2002	47.813	Africa
+Uganda	2007	51.542	Africa
+Zambia	1957	44.077	Africa
+Zambia	2002	39.193	Africa
+Zambia	2007	42.384	Africa
+Zimbabwe	1957	50.469	Africa
+Zimbabwe	2002	39.989	Africa
+Zimbabwe	2007	43.487	Africa
+Argentina	1957	64.399	Americas
+Argentina	2002	74.34	Americas
+Argentina	2007	75.32	Americas
+Bolivia	1957	41.89	Americas
+Bolivia	2002	63.883	Americas
+Bolivia	2007	65.554	Americas
+Brazil	1957	53.285	Americas
+Brazil	2002	71.006	Americas
+Brazil	2007	72.39	Americas
+Canada	1957	69.96	Americas
+Canada	2002	79.77	Americas
+Canada	2007	80.653	Americas
+Chile	1957	56.074	Americas
+Chile	2002	77.86	Americas
+Chile	2007	78.553	Americas
+Colombia	1957	55.118	Americas
+Colombia	2002	71.682	Americas
+Colombia	2007	72.889	Americas
+Costa Rica	1957	60.026	Americas
+Costa Rica	2002	78.123	Americas
+Costa Rica	2007	78.782	Americas
+Cuba	1957	62.325	Americas
+Cuba	2002	77.158	Americas
+Cuba	2007	78.273	Americas
+Dominican Republic	1957	49.828	Americas
+Dominican Republic	2002	70.847	Americas
+Dominican Republic	2007	72.235	Americas
+Ecuador	1957	51.356	Americas
+Ecuador	2002	74.173	Americas
+Ecuador	2007	74.994	Americas
+El Salvador	1957	48.57	Americas
+El Salvador	2002	70.734	Americas
+El Salvador	2007	71.878	Americas
+Guatemala	1957	44.142	Americas
+Guatemala	2002	68.978	Americas
+Guatemala	2007	70.259	Americas
+Haiti	1957	40.696	Americas
+Haiti	2002	58.137	Americas
+Haiti	2007	60.916	Americas
+Honduras	1957	44.665	Americas
+Honduras	2002	68.565	Americas
+Honduras	2007	70.198	Americas
+Jamaica	1957	62.61	Americas
+Jamaica	2002	72.047	Americas
+Jamaica	2007	72.567	Americas
+Mexico	1957	55.19	Americas
+Mexico	2002	74.902	Americas
+Mexico	2007	76.195	Americas
+Nicaragua	1957	45.432	Americas
+Nicaragua	2002	70.836	Americas
+Nicaragua	2007	72.899	Americas
+Panama	1957	59.201	Americas
+Panama	2002	74.712	Americas
+Panama	2007	75.537	Americas
+Paraguay	1957	63.196	Americas
+Paraguay	2002	70.755	Americas
+Paraguay	2007	71.752	Americas
+Peru	1957	46.263	Americas
+Peru	2002	69.906	Americas
+Peru	2007	71.421	Americas
+Puerto Rico	1957	68.54	Americas
+Puerto Rico	2002	77.778	Americas
+Puerto Rico	2007	78.746	Americas
+Trinidad and Tobago	1957	61.8	Americas
+Trinidad and Tobago	2002	68.976	Americas
+Trinidad and Tobago	2007	69.819	Americas
+United States	1957	69.49	Americas
+United States	2002	77.31	Americas
+United States	2007	78.242	Americas
+Uruguay	1957	67.044	Americas
+Uruguay	2002	75.307	Americas
+Uruguay	2007	76.384	Americas
+Venezuela	1957	57.907	Americas
+Venezuela	2002	72.766	Americas
+Venezuela	2007	73.747	Americas
+Afghanistan	1957	30.332	Asia
+Afghanistan	2002	42.129	Asia
+Afghanistan	2007	43.828	Asia
+Bahrain	1957	53.832	Asia
+Bahrain	2002	74.795	Asia
+Bahrain	2007	75.635	Asia
+Bangladesh	1957	39.348	Asia
+Bangladesh	2002	62.013	Asia
+Bangladesh	2007	64.062	Asia
+Cambodia	1957	41.366	Asia
+Cambodia	2002	56.752	Asia
+Cambodia	2007	59.723	Asia
+China	1957	50.54896	Asia
+China	2002	72.028	Asia
+China	2007	72.961	Asia
+Hong Kong, China	1957	64.75	Asia
+Hong Kong, China	2002	81.495	Asia
+Hong Kong, China	2007	82.208	Asia
+India	1957	40.249	Asia
+India	2002	62.879	Asia
+India	2007	64.698	Asia
+Indonesia	1957	39.918	Asia
+Indonesia	2002	68.588	Asia
+Indonesia	2007	70.65	Asia
+Iran	1957	47.181	Asia
+Iran	2002	69.451	Asia
+Iran	2007	70.964	Asia
+Iraq	1957	48.437	Asia
+Iraq	2002	57.046	Asia
+Iraq	2007	59.545	Asia
+Israel	1957	67.84	Asia
+Israel	2002	79.696	Asia
+Israel	2007	80.745	Asia
+Japan	1957	65.5	Asia
+Japan	2002	82	Asia
+Japan	2007	82.603	Asia
+Jordan	1957	45.669	Asia
+Jordan	2002	71.263	Asia
+Jordan	2007	72.535	Asia
+Korea, Dem. Rep.	1957	54.081	Asia
+Korea, Dem. Rep.	2002	66.662	Asia
+Korea, Dem. Rep.	2007	67.297	Asia
+Korea, Rep.	1957	52.681	Asia
+Korea, Rep.	2002	77.045	Asia
+Korea, Rep.	2007	78.623	Asia
+Kuwait	1957	58.033	Asia
+Kuwait	2002	76.904	Asia
+Kuwait	2007	77.588	Asia
+Lebanon	1957	59.489	Asia
+Lebanon	2002	71.028	Asia
+Lebanon	2007	71.993	Asia
+Malaysia	1957	52.102	Asia
+Malaysia	2002	73.044	Asia
+Malaysia	2007	74.241	Asia
+Mongolia	1957	45.248	Asia
+Mongolia	2002	65.033	Asia
+Mongolia	2007	66.803	Asia
+Myanmar	1957	41.905	Asia
+Myanmar	2002	59.908	Asia
+Myanmar	2007	62.069	Asia
+Nepal	1957	37.686	Asia
+Nepal	2002	61.34	Asia
+Nepal	2007	63.785	Asia
+Oman	1957	40.08	Asia
+Oman	2002	74.193	Asia
+Oman	2007	75.64	Asia
+Pakistan	1957	45.557	Asia
+Pakistan	2002	63.61	Asia
+Pakistan	2007	65.483	Asia
+Philippines	1957	51.334	Asia
+Philippines	2002	70.303	Asia
+Philippines	2007	71.688	Asia
+Saudi Arabia	1957	42.868	Asia
+Saudi Arabia	2002	71.626	Asia
+Saudi Arabia	2007	72.777	Asia
+Singapore	1957	63.179	Asia
+Singapore	2002	78.77	Asia
+Singapore	2007	79.972	Asia
+Sri Lanka	1957	61.456	Asia
+Sri Lanka	2002	70.815	Asia
+Sri Lanka	2007	72.396	Asia
+Syria	1957	48.284	Asia
+Syria	2002	73.053	Asia
+Syria	2007	74.143	Asia
+Taiwan	1957	62.4	Asia
+Taiwan	2002	76.99	Asia
+Taiwan	2007	78.4	Asia
+Thailand	1957	53.63	Asia
+Thailand	2002	68.564	Asia
+Thailand	2007	70.616	Asia
+Vietnam	1957	42.887	Asia
+Vietnam	2002	73.017	Asia
+Vietnam	2007	74.249	Asia
+West Bank and Gaza	1957	45.671	Asia
+West Bank and Gaza	2002	72.37	Asia
+West Bank and Gaza	2007	73.422	Asia
+Yemen, Rep.	1957	33.97	Asia
+Yemen, Rep.	2002	60.308	Asia
+Yemen, Rep.	2007	62.698	Asia
+Albania	1957	59.28	Europe
+Albania	2002	75.651	Europe
+Albania	2007	76.423	Europe
+Austria	1957	67.48	Europe
+Austria	2002	78.98	Europe
+Austria	2007	79.829	Europe
+Belgium	1957	69.24	Europe
+Belgium	2002	78.32	Europe
+Belgium	2007	79.441	Europe
+Bosnia and Herzegovina	1957	58.45	Europe
+Bosnia and Herzegovina	2002	74.09	Europe
+Bosnia and Herzegovina	2007	74.852	Europe
+Bulgaria	1957	66.61	Europe
+Bulgaria	2002	72.14	Europe
+Bulgaria	2007	73.005	Europe
+Croatia	1957	64.77	Europe
+Croatia	2002	74.876	Europe
+Croatia	2007	75.748	Europe
+Czech Republic	1957	69.03	Europe
+Czech Republic	2002	75.51	Europe
+Czech Republic	2007	76.486	Europe
+Denmark	1957	71.81	Europe
+Denmark	2002	77.18	Europe
+Denmark	2007	78.332	Europe
+Finland	1957	67.49	Europe
+Finland	2002	78.37	Europe
+Finland	2007	79.313	Europe
+France	1957	68.93	Europe
+France	2002	79.59	Europe
+France	2007	80.657	Europe
+Germany	1957	69.1	Europe
+Germany	2002	78.67	Europe
+Germany	2007	79.406	Europe
+Greece	1957	67.86	Europe
+Greece	2002	78.256	Europe
+Greece	2007	79.483	Europe
+Hungary	1957	66.41	Europe
+Hungary	2002	72.59	Europe
+Hungary	2007	73.338	Europe
+Iceland	1957	73.47	Europe
+Iceland	2002	80.5	Europe
+Iceland	2007	81.757	Europe
+Ireland	1957	68.9	Europe
+Ireland	2002	77.783	Europe
+Ireland	2007	78.885	Europe
+Italy	1957	67.81	Europe
+Italy	2002	80.24	Europe
+Italy	2007	80.546	Europe
+Montenegro	1957	61.448	Europe
+Montenegro	2002	73.981	Europe
+Montenegro	2007	74.543	Europe
+Netherlands	1957	72.99	Europe
+Netherlands	2002	78.53	Europe
+Netherlands	2007	79.762	Europe
+Norway	1957	73.44	Europe
+Norway	2002	79.05	Europe
+Norway	2007	80.196	Europe
+Poland	1957	65.77	Europe
+Poland	2002	74.67	Europe
+Poland	2007	75.563	Europe
+Portugal	1957	61.51	Europe
+Portugal	2002	77.29	Europe
+Portugal	2007	78.098	Europe
+Romania	1957	64.1	Europe
+Romania	2002	71.322	Europe
+Romania	2007	72.476	Europe
+Serbia	1957	61.685	Europe
+Serbia	2002	73.213	Europe
+Serbia	2007	74.002	Europe
+Slovak Republic	1957	67.45	Europe
+Slovak Republic	2002	73.8	Europe
+Slovak Republic	2007	74.663	Europe
+Slovenia	1957	67.85	Europe
+Slovenia	2002	76.66	Europe
+Slovenia	2007	77.926	Europe
+Spain	1957	66.66	Europe
+Spain	2002	79.78	Europe
+Spain	2007	80.941	Europe
+Sweden	1957	72.49	Europe
+Sweden	2002	80.04	Europe
+Sweden	2007	80.884	Europe
+Switzerland	1957	70.56	Europe
+Switzerland	2002	80.62	Europe
+Switzerland	2007	81.701	Europe
+Turkey	1957	48.079	Europe
+Turkey	2002	70.845	Europe
+Turkey	2007	71.777	Europe
+United Kingdom	1957	70.42	Europe
+United Kingdom	2002	78.471	Europe
+United Kingdom	2007	79.425	Europe

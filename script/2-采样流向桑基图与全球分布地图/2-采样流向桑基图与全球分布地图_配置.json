@@ -1,0 +1,9 @@
+{
+  "params": {
+    "data_path": "data/2-采样流向桑基图与全球分布地图/2-采样流向桑基图与全球分布地图_采样数据.tsv",
+    "excel_sheet": "",
+    "width_mm": 240,
+    "height_mm": 205,
+    "dpi": 600
+  }
+}
