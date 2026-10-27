@@ -1,0 +1,20 @@
+ID,MSI,PD-L1,ERBB amplification,RECIST,Lauren' classification,Tstage,Pathological regression (%),group
+P15,MSS,Negative,Negative,SD,Intestinal/mixed,T4a,-3,non-MPR
+P03,MSS,Negative,Negative,SD,Diffused,T4a,-5,non-MPR
+P08,MSS,Negative,Negative,SD,Diffused,T4a,-10,non-MPR
+P14,MSS,Negative,Negative,SD,Diffused,T4a,-17,non-MPR
+P11,MSS,Negative,Negative,SD,Diffused,T4a,-20,non-MPR
+P12,MSS,Negative,Negative,SD,Intestinal/mixed,T4a,-57,non-MPR
+P10,MSS,Negative,Negative,SD,Diffused,T4a,-75,non-MPR
+P01,MSI-H,Negative,Negative,PR,Intestinal/mixed,T4a,-93,MPR
+P18,MSS,Negative,Negative,PR,Intestinal/mixed,T4a,-95,MPR
+P02,MSI-H,Positive,Negative,PR,Diffused,T4a,-100,MPR
+P16,MSS,Positive,Positive,SD,Diffused,T4a,-100,MPR
+P04,MSS,Negative,Negative,SD,Diffused,T4b,-5,non-MPR
+P05,MSS,NA,Positive,SD,Intestinal/mixed,T4b,-7,non-MPR
+P07,MSS,Negative,Negative,SD,Intestinal/mixed,T4b,-7,non-MPR
+P21,MSS,Negative,Negative,SD,Diffused,T4b,-10,non-MPR
+P20,MSS,Negative,Positive,PR,Intestinal/mixed,T4b,-40,non-MPR
+P25,MSS,Negative,Negative,PR,Intestinal/mixed,T4b,-80,non-MPR
+P19,MSS,Negative,Positive,SD,Intestinal/mixed,T4b,-83,non-MPR
+P22,MSI-H,Positive,Negative,PR,Diffused,T4b,-100,MPR

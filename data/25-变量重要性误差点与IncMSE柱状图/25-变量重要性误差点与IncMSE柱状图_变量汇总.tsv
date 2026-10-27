@@ -1,0 +1,69 @@
+group	type	mean	error	IncMSE (%)
+pH	lignin	-0.4006892	0.1042884	16.85257
+pH	litter	-0.08197	0.07417	9.536443
+pH	SOC	0.107643	0.12003	13.00916
+pH	fieldlignin	-0.19015	0.13162	16.572418
+Silt+Clay	lignin	0.1968595	0.0915712	16.2529
+Silt+Clay	litter	NA	NA	NA
+Silt+Clay	SOC	-0.279855	0.101877	11.22245
+Silt+Clay	fieldlignin	NA	NA	NA
+Alox	lignin	NA	NA	NA
+Alox	litter	NA	NA	7.705156
+Alox	SOC	-0.109172	0.081021	20.12974
+Alox	fieldlignin	0.16977	0.14159	21.590672
+Feox	lignin	-0.1909055	0.0885475	NA
+Feox	litter	-0.4192	0.09383	12.178778
+Feox	SOC	NA	NA	19.25747
+Feox	fieldlignin	-0.44447	0.14797	24.415121
+Fecd-ox	lignin	NA	NA	13.10474
+Fecd-ox	litter	NA	NA	10.144348
+Fecd-ox	SOC	NA	NA	15.36962
+Fecd-ox	fieldlignin	NA	NA	NA
+FeHCl	lignin	NA	NA	NA
+FeHCl	litter	0.24432	0.08318	17.706314
+FeHCl	SOC	NA	NA	15.07473
+FeHCl	fieldlignin	NA	NA	NA
+Mncd	lignin	0.2276336	0.0850004	15.29494
+Mncd	litter	0.24899	0.07964	12.509055
+Mncd	SOC	-0.112256	0.071236	14.21624
+Mncd	fieldlignin	0.2084	0.09803	10.500044
+Cacd	lignin	0.1972538	0.0935278	13.44365
+Cacd	litter	NA	NA	11.738517
+Cacd	SOC	-0.148106	0.091655	13.20835
+Cacd	fieldlignin	0.25563	0.11458	9.021719
+Fungal composition	lignin	0.3150939	0.0853801	23.04262
+Fungal composition	litter	0.26222	0.07665	22.303515
+Fungal composition	SOC	NA	NA	NA
+Fungal composition	fieldlignin	NA	NA	NA
+Fungal Chao1	lignin	NA	NA	NA
+Fungal Chao1	litter	NA	NA	14.289518
+Fungal Chao1	SOC	NA	NA	NA
+Fungal Chao1	fieldlignin	NA	NA	NA
+Fungal quantity	lignin	0.2296809	0.0759239	19.45055
+Fungal quantity	litter	0.17634	0.0771	22.456023
+Fungal quantity	SOC	NA	NA	NA
+Fungal quantity	fieldlignin	NA	NA	NA
+Bacterial quantity	lignin	NA	NA	22.95848
+Bacterial quantity	litter	0.16762	0.07443	29.091281
+Bacterial quantity	SOC	NA	NA	NA
+Bacterial quantity	fieldlignin	NA	NA	NA
+Fungal-to-bacterial ratio	lignin	NA	NA	NA
+Fungal-to-bacterial ratio	litter	NA	NA	8.842656
+Fungal-to-bacterial ratio	SOC	NA	NA	NA
+Fungal-to-bacterial ratio	fieldlignin	NA	NA	NA
+Bulk N	lignin	NA	NA	NA
+Bulk N	litter	0.2275	0.09293	25.256402
+Bulk N	SOC	NA	NA	NA
+Bulk N	fieldlignin	0.2051	0.11367	19.590037
+Bulk C/N	lignin	0.1373024	0.0810347	13.27274
+Bulk C/N	litter	NA	NA	NA
+Bulk C/N	SOC	-0.450279	0.080549	23.10185
+Bulk C/N	fieldlignin	0.39041	0.10746	19.243813
+MAT	lignin	0.2372369	0.0807042	13.54463
+MAT	litter	0.10571	0.07195	10.967549
+MAT	SOC	0.369135	0.149148	12.84994
+MAT	fieldlignin	0.45049	0.14048	18.956457
+MAP	lignin	NA	NA	17.27639
+MAP	litter	NA	NA	12.604502
+MAP	SOC	-0.225352	0.168944	11.41984
+MAP	fieldlignin	-0.59772	0.19078	16.142893

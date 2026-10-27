@@ -1,0 +1,6 @@
+{
+  "params": {
+    "data_path": "data/19-GWAS曼哈顿图/19-GWAS曼哈顿图_关联输入.csv",
+    "karyotype_path": "data/19-GWAS曼哈顿图/19-GWAS曼哈顿图_染色体跨度.tsv"
+  }
+}

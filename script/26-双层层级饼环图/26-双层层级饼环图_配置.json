@@ -1,0 +1,6 @@
+{
+  "params": {
+    "aggregation": "records",
+    "data_path": "data/26-双层层级饼环图/26-双层层级饼环图_模拟层级记录.tsv"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "params": {
+    "set_columns": "A1,A2,A3|B1,B2,B3|C1,C2,C3",
+    "presence_threshold": 0,
+    "minimum_present_replicates": 1,
+    "data_path": "data/21-三集合Venn与比例Euler对照图/21-三集合Venn与比例Euler对照图_OTU测量.tsv"
+  }
+}

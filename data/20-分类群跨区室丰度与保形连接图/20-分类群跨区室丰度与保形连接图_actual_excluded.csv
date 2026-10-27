@@ -1,0 +1,8 @@
+"Compartment","Genus","RA","source_row","reason"
+"BS","Klebsiella",0.003939028,1,"BS explicitly excluded by include_bs=false"
+"BS","Pantoea",0.026849151,8,"BS explicitly excluded by include_bs=false"
+"BS","Enterobacterales",0.015304454,15,"BS explicitly excluded by include_bs=false"
+"BS","Bacillus",1.010369032,22,"BS explicitly excluded by include_bs=false"
+"BS","Pseudomonas",0.103334758,29,"BS explicitly excluded by include_bs=false"
+"BS","Cronobacter",0.003300094,36,"BS explicitly excluded by include_bs=false"
+"BS","Rosenbergiella",0.000983516,43,"BS explicitly excluded by include_bs=false"
