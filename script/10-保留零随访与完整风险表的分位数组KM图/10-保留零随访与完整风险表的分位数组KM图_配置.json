@@ -1,0 +1,6 @@
+{
+  "params": {
+    "data_path": "data/10-保留零随访与完整风险表的分位数组KM图/10-保留零随访与完整风险表的分位数组KM图_随访输入.tsv",
+    "split_quantile": 0.5
+  }
+}

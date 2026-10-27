@@ -1,0 +1,21 @@
+sample	Treatment	Batch	Post treatment	Critical period
+A	Saline	1	48 h	Closed
+B	Saline	1	2 wk	Closed
+C	Saline	1	2 wk	Closed
+D	Cocaine	1	48 h	Closed
+E	Saline	2	48 h	Closed
+F	LSD	1	48 h	Closed
+G	LSD	2	2 wk	Closed
+H	LSD	3	48 h	Closed
+I	LSD	2	48 h	Closed
+J	Saline	1	2 wk	Open
+K	Saline	2	48 h	Open
+L	Saline	2	2 wk	Open
+M	MDMA	2	2 wk	Open
+N	MDMA	1	2 wk	Open
+O	MDMA	2	2 wk	Open
+P	Ketamine	1	2 wk	Open
+Q	Ketamine	3	48 h	Open
+R	Ketamine	3	48 h	Open
+S	Ketamine	3	48 h	Open
+T	Ketamine	3	48 h	Open

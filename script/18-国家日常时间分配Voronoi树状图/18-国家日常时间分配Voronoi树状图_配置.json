@@ -1,0 +1,7 @@
+{
+  "params": {
+    "country": "Australia",
+    "data_path": "data/18-国家日常时间分配Voronoi树状图/18-国家日常时间分配Voronoi树状图_国家活动输入.csv",
+    "country_regions_path": "data/18-国家日常时间分配Voronoi树状图/18-国家日常时间分配Voronoi树状图_国家地区映射.csv"
+  }
+}

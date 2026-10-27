@@ -1,0 +1,8 @@
+gene	test	nominal_p	star
+SEMA3A	Kruskal-Wallis omnibus	0.000112226745496089	***
+SEMA3B	Kruskal-Wallis omnibus	0.479845563259253	
+SEMA3C	Kruskal-Wallis omnibus	0.0514273416603886	
+SEMA3D	Kruskal-Wallis omnibus	0.0337550914020678	*
+SEMA3E	Kruskal-Wallis omnibus	0.178528424095911	
+SEMA3F	Kruskal-Wallis omnibus	0.118786872038073	
+SEMA3G	Kruskal-Wallis omnibus	0.00365722330964932	**
