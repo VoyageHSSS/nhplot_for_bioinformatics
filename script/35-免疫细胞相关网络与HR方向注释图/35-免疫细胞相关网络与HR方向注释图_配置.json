@@ -1,0 +1,9 @@
+{
+  "params": {
+    "cluster_mode": "source",
+    "p_cutoff": 0.0001,
+    "immune_path": "data/35-免疫细胞相关网络与HR方向注释图/35-免疫细胞相关网络与HR方向注释图_免疫矩阵.csv",
+    "hr_path": "data/35-免疫细胞相关网络与HR方向注释图/35-免疫细胞相关网络与HR方向注释图_提供HR表.csv",
+    "links_path": "data/35-免疫细胞相关网络与HR方向注释图/35-免疫细胞相关网络与HR方向注释图_提供相关边.csv"
+  }
+}

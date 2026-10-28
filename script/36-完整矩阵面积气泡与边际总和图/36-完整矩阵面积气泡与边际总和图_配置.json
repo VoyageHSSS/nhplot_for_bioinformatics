@@ -1,0 +1,8 @@
+{
+  "params": {
+    "data_layout": "wide",
+    "variable_columns": "A_1,A_2,A_3,B_1,B_2,B_3",
+    "column_groups": "A,A,A,B,B,B",
+    "data_path": "data/36-完整矩阵面积气泡与边际总和图/36-完整矩阵面积气泡与边际总和图_模拟宽矩阵.tsv"
+  }
+}

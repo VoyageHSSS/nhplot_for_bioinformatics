@@ -1,0 +1,252 @@
+region	location	ASIR	matched
+Aruba	Aruba	NA	FALSE
+Afghanistan	Afghanistan	19.41	TRUE
+Angola	Angola	14.58	TRUE
+Anguilla	Anguilla	NA	FALSE
+Albania	Albania	6.65	TRUE
+Finland	Finland	6.57	TRUE
+Andorra	Andorra	6.84	TRUE
+United Arab Emirates	United Arab Emirates	8.42	TRUE
+Argentina	Argentina	7.34	TRUE
+Armenia	Armenia	11.41	TRUE
+American Samoa	American Samoa	11.33	TRUE
+Australia	Australia	1.43	TRUE
+French Southern and Antarctic Lands	French Southern and Antarctic Lands	NA	FALSE
+Antigua	Antigua and Barbuda	11.43	TRUE
+Barbuda	Antigua and Barbuda	11.43	TRUE
+Austria	Austria	11.8	TRUE
+Azerbaijan	Azerbaijan	13.67	TRUE
+Burundi	Burundi	15.5	TRUE
+Belgium	Belgium	4.07	TRUE
+Benin	Benin	17.94	TRUE
+Burkina Faso	Burkina Faso	17.35	TRUE
+Bangladesh	Bangladesh	38.91	TRUE
+Bulgaria	Bulgaria	6.4	TRUE
+Bahrain	Bahrain	8.19	TRUE
+Bahamas	Bahamas	11.67	TRUE
+Bosnia and Herzegovina	Bosnia and Herzegovina	5.87	TRUE
+Saint Barthelemy	Saint Barthelemy	NA	FALSE
+Belarus	Belarus	11.22	TRUE
+Belize	Belize	11.4	TRUE
+Bermuda	Bermuda	11.65	TRUE
+Bolivia	Bolivia (Plurinational State of)	9.59	TRUE
+Brazil	Brazil	6.33	TRUE
+Barbados	Barbados	12.98	TRUE
+Brunei	Brunei Darussalam	8.08	TRUE
+Bhutan	Bhutan	47.76	TRUE
+Botswana	Botswana	15.09	TRUE
+Central African Republic	Central African Republic	14.49	TRUE
+Canada	Canada	12.11	TRUE
+Switzerland	Switzerland	7.93	TRUE
+Chile	Chile	6.97	TRUE
+China	China	20.95	TRUE
+Ivory Coast	Cote d'Ivoire	17.91	TRUE
+Cameroon	Cameroon	17.9	TRUE
+Democratic Republic of the Congo	Democratic Republic of the Congo	14.73	TRUE
+Republic of Congo	Congo	14.59	TRUE
+Cook Islands	Cook Islands	NA	FALSE
+Colombia	Colombia	14.36	TRUE
+Comoros	Comoros	16.15	TRUE
+Cape Verde	Cabo Verde	18.87	TRUE
+Costa Rica	Costa Rica	14.4	TRUE
+Cuba	Cuba	11.35	TRUE
+Curacao	Curacao	NA	FALSE
+Cayman Islands	Cayman Islands	NA	FALSE
+Cyprus	Cyprus	4.95	TRUE
+Czech Republic	Czechia	5.88	TRUE
+Germany	Germany	12.89	TRUE
+Djibouti	Djibouti	15.98	TRUE
+Dominica	Dominica	13.65	TRUE
+Denmark	Denmark	7.27	TRUE
+Dominican Republic	Dominican Republic	11.68	TRUE
+Algeria	Algeria	8.35	TRUE
+Ecuador	Ecuador	7.39	TRUE
+Egypt	Egypt	9.96	TRUE
+Eritrea	Eritrea	15.83	TRUE
+Canary Islands	Canary Islands	NA	FALSE
+Spain	Spain	6.81	TRUE
+Estonia	Estonia	9.13	TRUE
+Ethiopia	Ethiopia	16.08	TRUE
+Fiji	Fiji	12.25	TRUE
+Falkland Islands	Falkland Islands	NA	FALSE
+Reunion	Reunion	NA	FALSE
+Mayotte	Mayotte	NA	FALSE
+French Guiana	French Guiana	NA	FALSE
+Martinique	Martinique	NA	FALSE
+Guadeloupe	Guadeloupe	NA	FALSE
+France	France	3.75	TRUE
+Faroe Islands	Faroe Islands	NA	FALSE
+Micronesia	Micronesia (Federated States of)	10.58	TRUE
+Gabon	Gabon	14.82	TRUE
+UK	United Kingdom	9.01	TRUE
+Georgia	Georgia	NA	FALSE
+Guernsey	Guernsey	NA	FALSE
+Ghana	Ghana	21.69	TRUE
+Guinea	Guinea	18.21	TRUE
+Gambia	Gambia	18.17	TRUE
+Guinea-Bissau	Guinea-Bissau	17.66	TRUE
+Equatorial Guinea	Equatorial Guinea	14.64	TRUE
+Greece	Greece	6.52	TRUE
+Grenada	Grenada	11.53	TRUE
+Greenland	Greenland	5.39	TRUE
+Guatemala	Guatemala	13.48	TRUE
+Guam	Guam	10.55	TRUE
+Guyana	Guyana	13.71	TRUE
+Heard Island	Heard Island	NA	FALSE
+Honduras	Honduras	16.36	TRUE
+Croatia	Croatia	9.26	TRUE
+Haiti	Haiti	12.28	TRUE
+Hungary	Hungary	5.84	TRUE
+Indonesia	Indonesia	5.74	TRUE
+Isle of Man	Isle of Man	NA	FALSE
+India	India	51.2	TRUE
+Cocos Islands	Cocos Islands	NA	FALSE
+Christmas Island	Christmas Island	NA	FALSE
+Chagos Archipelago	Chagos Archipelago	NA	FALSE
+Ireland	Ireland	6.54	TRUE
+Iran	Iran (Islamic Republic of)	8.75	TRUE
+Iraq	Iraq	11.08	TRUE
+Iceland	Iceland	16.44	TRUE
+Israel	Israel	6.74	TRUE
+Italy	Italy	6.05	TRUE
+San Marino	San Marino	NA	FALSE
+Jamaica	Jamaica	12.64	TRUE
+Jersey	Jersey	NA	FALSE
+Jordan	Jordan	8.22	TRUE
+Japan	Japan	7.52	TRUE
+Siachen Glacier	Siachen Glacier	NA	FALSE
+Kazakhstan	Kazakhstan	12.64	TRUE
+Kenya	Kenya	17.44	TRUE
+Kyrgyzstan	Kyrgyzstan	11.57	TRUE
+Cambodia	Cambodia	11.66	TRUE
+Kiribati	Kiribati	NA	FALSE
+Nevis	Nevis	NA	FALSE
+Saint Kitts	Saint Kitts	NA	FALSE
+South Korea	Republic of Korea	7.1	TRUE
+Kosovo	Kosovo	NA	FALSE
+Kuwait	Kuwait	8.35	TRUE
+Laos	Lao People's Democratic Republic	12.17	TRUE
+Lebanon	Lebanon	12.43	TRUE
+Liberia	Liberia	17.87	TRUE
+Libya	Libya	6.34	TRUE
+Saint Lucia	Saint Lucia	12.42	TRUE
+Liechtenstein	Liechtenstein	NA	FALSE
+Sri Lanka	Sri Lanka	16.3	TRUE
+Lesotho	Lesotho	14.95	TRUE
+Lithuania	Lithuania	9.38	TRUE
+Luxembourg	Luxembourg	7.9	TRUE
+Latvia	Latvia	9.59	TRUE
+Saint Martin	Saint Martin	NA	FALSE
+Morocco	Morocco	8.64	TRUE
+Monaco	Monaco	NA	FALSE
+Moldova	Republic of Moldova	9.46	TRUE
+Madagascar	Madagascar	15.71	TRUE
+Maldives	Maldives	12.13	TRUE
+Mexico	Mexico	15.61	TRUE
+Marshall Islands	Marshall Islands	10.7	TRUE
+North Macedonia	North Macedonia	5.76	TRUE
+Mali	Mali	19.14	TRUE
+Malta	Malta	5.9	TRUE
+Myanmar	Myanmar	11.23	TRUE
+Montenegro	Montenegro	5.89	TRUE
+Mongolia	Mongolia	13.02	TRUE
+Northern Mariana Islands	Northern Mariana Islands	10.83	TRUE
+Mozambique	Mozambique	16.33	TRUE
+Mauritania	Mauritania	18.39	TRUE
+Montserrat	Montserrat	NA	FALSE
+Mauritius	Mauritius	12.37	TRUE
+Malawi	Malawi	15.77	TRUE
+Malaysia	Malaysia	15.58	TRUE
+Namibia	Namibia	15.16	TRUE
+New Caledonia	New Caledonia	NA	FALSE
+Niger	Niger	17.05	TRUE
+Norfolk Island	Norfolk Island	NA	FALSE
+Nigeria	Nigeria	17.07	TRUE
+Nicaragua	Nicaragua	14.32	TRUE
+Niue	Niue	NA	FALSE
+Bonaire	Bonaire	NA	FALSE
+Sint Eustatius	Sint Eustatius	NA	FALSE
+Saba	Saba	NA	FALSE
+Netherlands	Netherlands	3.46	TRUE
+Norway	Norway	7.08	TRUE
+Nepal	Nepal	35.78	TRUE
+Nauru	Nauru	NA	FALSE
+New Zealand	New Zealand	5.55	TRUE
+Oman	Oman	15.77	TRUE
+Pakistan	Pakistan	32.23	TRUE
+Panama	Panama	13.8	TRUE
+Pitcairn Islands	Pitcairn Islands	NA	FALSE
+Peru	Peru	10.27	TRUE
+Philippines	Philippines	17.52	TRUE
+Palau	Palau	NA	FALSE
+Papua New Guinea	Papua New Guinea	11.28	TRUE
+Poland	Poland	0.89	TRUE
+Puerto Rico	Puerto Rico	11.21	TRUE
+North Korea	Democratic People's Republic of Korea	11.79	TRUE
+Madeira Islands	Madeira Islands	NA	FALSE
+Azores	Azores	NA	FALSE
+Portugal	Portugal	6.21	TRUE
+Paraguay	Paraguay	6.59	TRUE
+Palestine	Palestine	8.4	TRUE
+French Polynesia	French Polynesia	NA	FALSE
+Qatar	Qatar	8.27	TRUE
+Romania	Romania	7.56	TRUE
+Russia	Russian Federation	9.96	TRUE
+Rwanda	Rwanda	15.68	TRUE
+Western Sahara	Western Sahara	NA	FALSE
+Saudi Arabia	Saudi Arabia	9.2	TRUE
+Sudan	Sudan	8.27	TRUE
+South Sudan	South Sudan	15.85	TRUE
+Senegal	Senegal	17.92	TRUE
+Singapore	Singapore	6.94	TRUE
+South Sandwich Islands	South Sandwich Islands	NA	FALSE
+South Georgia	South Georgia	NA	FALSE
+Saint Helena	Saint Helena	NA	FALSE
+Ascension Island	Ascension Island	NA	FALSE
+Solomon Islands	Solomon Islands	10.39	TRUE
+Sierra Leone	Sierra Leone	17.74	TRUE
+El Salvador	El Salvador	13.41	TRUE
+Somalia	Somalia	15.94	TRUE
+Saint Pierre and Miquelon	Saint Pierre and Miquelon	NA	FALSE
+Serbia	Serbia	7.98	TRUE
+Sao Tome and Principe	Sao Tome and Principe	22.67	TRUE
+Suriname	Suriname	13.09	TRUE
+Slovakia	Slovakia	8.41	TRUE
+Slovenia	Slovenia	6.79	TRUE
+Sweden	Sweden	11.15	TRUE
+Swaziland	Eswatini	14.89	TRUE
+Sint Maarten	Sint Maarten	NA	FALSE
+Seychelles	Seychelles	12.04	TRUE
+Syria	Syrian Arab Republic	8.62	TRUE
+Turks and Caicos Islands	Turks and Caicos Islands	NA	FALSE
+Chad	Chad	18.09	TRUE
+Togo	Togo	17.87	TRUE
+Thailand	Thailand	12.96	TRUE
+Tajikistan	Tajikistan	11.79	TRUE
+Turkmenistan	Turkmenistan	12.9	TRUE
+Timor-Leste	Timor-Leste	12.78	TRUE
+Tonga	Tonga	11.64	TRUE
+Trinidad	Trinidad and Tobago	11.4	TRUE
+Tobago	Trinidad and Tobago	11.4	TRUE
+Tunisia	Tunisia	8.45	TRUE
+Turkey	Turkey	11.23	TRUE
+Taiwan	Taiwan	NA	FALSE
+Tanzania	United Republic of Tanzania	15.78	TRUE
+Uganda	Uganda	15.47	TRUE
+Ukraine	Ukraine	12.79	TRUE
+Uruguay	Uruguay	8.25	TRUE
+USA	United States of America	1.89	TRUE
+Uzbekistan	Uzbekistan	15.02	TRUE
+Vatican	Vatican	NA	FALSE
+Grenadines	Saint Vincent and the Grenadines	11.57	TRUE
+Saint Vincent	Saint Vincent and the Grenadines	11.57	TRUE
+Venezuela	Venezuela (Bolivarian Republic of)	13.83	TRUE
+Virgin Islands	Virgin Islands	NA	FALSE
+Vietnam	Viet Nam	18.58	TRUE
+Vanuatu	Vanuatu	10.58	TRUE
+Wallis and Futuna	Wallis and Futuna	NA	FALSE
+Samoa	Samoa	10.71	TRUE
+Yemen	Yemen	8.43	TRUE
+South Africa	South Africa	14.85	TRUE
+Zambia	Zambia	15.91	TRUE
+Zimbabwe	Zimbabwe	16.92	TRUE

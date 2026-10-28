@@ -1,0 +1,9 @@
+{
+  "params": {
+    "effect_cutoff": 2,
+    "significance_cutoff": 0.05,
+    "label_effect_cutoff": 4,
+    "label_significance_cutoff": 0.05,
+    "data_path": "data/31-差异表达火山图与候选标签/31-差异表达火山图与候选标签_效应与原始P.tsv"
+  }
+}

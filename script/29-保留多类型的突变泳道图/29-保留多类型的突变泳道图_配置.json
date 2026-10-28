@@ -1,0 +1,9 @@
+{
+  "params": {
+    "q_cutoff": 0.05,
+    "maf_path": "data/29-保留多类型的突变泳道图/29-保留多类型的突变泳道图_原始MAF.tsv",
+    "sig_genes_path": "data/29-保留多类型的突变泳道图/29-保留多类型的突变泳道图_提供基因q表.tsv",
+    "meta_samples_path": "data/29-保留多类型的突变泳道图/29-保留多类型的突变泳道图_Meta样本.txt",
+    "local_samples_path": "data/29-保留多类型的突变泳道图/29-保留多类型的突变泳道图_Local样本.txt"
+  }
+}

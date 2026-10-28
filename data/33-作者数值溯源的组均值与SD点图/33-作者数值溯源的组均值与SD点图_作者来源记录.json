@@ -1,0 +1,15 @@
+{
+  "doi": "10.1038/s41467-023-41282-x",
+  "paper": "https://www.nature.com/articles/s41467-023-41282-x",
+  "figure": "5e",
+  "source_url": "https://media.springernature.com/original/springer-static/esm/art%3A10.1038%2Fs41467-023-41282-x/MediaObjects/41467_2023_41282_MOESM5_ESM.xlsx",
+  "author_workbook_sha256": "08679e20ad13617dfca6d2bc6e67672e45fae622e3bc172bf8078dc5e10dfc98",
+  "verified_cells": 40,
+  "absolute_tolerance": 1e-12,
+  "verified_timepoints": [
+    "Day 5",
+    "Day 10"
+  ],
+  "statistical_method_caption": "one-way ANOVA with Tukey multiple comparisons for Fig5e",
+  "limits": "No specimen IDs in tutorial; independence and model assumptions not independently certified."
+}
