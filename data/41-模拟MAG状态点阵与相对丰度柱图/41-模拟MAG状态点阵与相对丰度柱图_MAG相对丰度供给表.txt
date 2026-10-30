@@ -1,0 +1,13 @@
+sample	group	value	MAG phylum
+RYN_227	A	1	Actinobacteriota
+RYN_347	A	1.5	Eremibacterota
+RNY_176	B	0.8	Actinobacteriota
+RNY_82	B	0.9	Actinobacteriota
+RNY_171	B	1	Actinobacteriota
+RNY_169	B	0.7	Actinobacteriota
+RNY_216	B	0.7	Actinobacteriota
+RNY_79	B	0.9	Actinobacteriota
+RNY_74	B	3	Actinobacteriota
+RNY_123	B	0.3	Actinobacteriota
+RNY_447	B	0.4	Proteobacteria
+RNY_95	B	0.5	Actinobacteriota

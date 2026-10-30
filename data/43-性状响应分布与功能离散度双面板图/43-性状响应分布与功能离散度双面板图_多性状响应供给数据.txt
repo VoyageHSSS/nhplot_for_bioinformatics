@@ -1,0 +1,23 @@
+sample	group	A	B	C	D	E	F
+Leaf longevity	A	5	4	6	4	5	7
+Reproductive phase	A	-4	-10	35	-25	-15	2
+Height	B	59	21	15	17	21	50
+Leaf area	B	63	2	-4	-8	-14	42
+Specific leaf area	B	8	-27	84	58	-29	86
+Leaf dry matter content	B	100	-35	-13	39	-42	-54
+Leaf N concentration	C	10	58	29	19	10	25
+Leaf P concentration	C	47	49	45	84	97	-14
+Leaf Mg concentration	C	27	41	-14	89	100	60
+Net photosynthetic rate	D	-5	69	38	74	4	92
+Stomatal conductance	D	44	-51	98	55	21	15
+Intercellular CO2 concentration	D	99	51	-17	-35	-53	64
+Transpiration rate	D	-2	38	-14	22	74	-19
+Chlorophyll content	D	-8	-4	2	29	28	-39
+Photosynthetic N use efficiency	D	85	-33	43	-19	37	9
+Photosynthetic P use efficiency	D	95	-21	96	-6	62	-20
+Average diameter	E	73	-43	90	36	-1	-37
+Specific root length	E	24	45	63	91	76	48
+Specific root area	E	-38	67	-24	36	78	100
+Root tissue density	E	-25	50	-7	-15	-31	91
+Root N concentration	F	34	-39	-23	51	-3	44
+Root P concentration	F	88	-4	64	85	9	51

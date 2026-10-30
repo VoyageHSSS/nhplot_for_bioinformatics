@@ -1,0 +1,8 @@
+{
+  "params": {
+    "profile_path": "data/44-STEM模型轨迹与基因信号分布图/44-STEM模型轨迹与基因信号分布图_STEM供给模型轨迹表.txt",
+    "gene_path": "data/44-STEM模型轨迹与基因信号分布图/44-STEM模型轨迹与基因信号分布图_STEM供给基因注释表.txt",
+    "rep1_path": "data/44-STEM模型轨迹与基因信号分布图/44-STEM模型轨迹与基因信号分布图_供给信号矩阵_1.txt",
+    "rep2_path": "data/44-STEM模型轨迹与基因信号分布图/44-STEM模型轨迹与基因信号分布图_供给信号矩阵_2.txt"
+  }
+}

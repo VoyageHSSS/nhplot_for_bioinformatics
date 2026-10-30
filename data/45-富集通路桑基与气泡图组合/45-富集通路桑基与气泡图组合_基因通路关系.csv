@@ -1,0 +1,44 @@
+﻿sub_path,gene,pathway,freq
+Oxidative phosphorylation,ATP5F1D,Thermogenesis,1
+Chemical carcinogenesis - reactive oxygen species,ATP5MC2,Thermogenesis,1
+Diabetic cardiomyopathy,COX4I1,Thermogenesis,1
+oxidative phosphorylation,COX5B,Thermogenesis,1
+ribosome assembly,RPSA,ribosome assembly,1
+ribosomal large subunit biogenesis,RPL5,ribosome assembly,1
+VEGFA-VEGFR2 signaling,ANXA1,VEGFA-VEGFR2 signaling,1
+VEGFA-VEGFR3 signaling,CCND1,VEGFA-VEGFR2 signaling,1
+VEGFA-VEGFR4 signaling,FN1,VEGFA-VEGFR2 signaling,1
+regulation of intrinsic apoptotic signaling pathway,CLU,regulation of apoptotic signaling pathway,1
+negative regulation of apoptotic signaling pathway,FGFR1,regulation of apoptotic signaling pathway,1
+negative regulation of intrinsic apoptotic signaling pathway,GSTP1,regulation of apoptotic signaling pathway,1
+regulation of intrinsic apoptotic signaling pathway in response to DNA damage,HIF1A,regulation of apoptotic signaling pathway,1
+negative regulation of intracellular signal transduction,HSPB1,regulation of apoptotic signaling pathway,1
+Signaling by PTK6,CCND1,Kaposi sarcoma-associated herpesvirus infection,1
+Signaling by Non-Receptor Tyrosine Kinases,GNG5,Kaposi sarcoma-associated herpesvirus infection,1
+TGF-beta receptor signaling activates SMADs,GNGT1,Kaposi sarcoma-associated herpesvirus infection,1
+purine ribonucleotide metabolic process,ATP5F1D,purine nucleotide metabolic process,1
+purine-containing compound metabolic process,ATP5MC2,purine nucleotide metabolic process,1
+ribonucleotide metabolic process,NQO1,purine nucleotide metabolic process,1
+ribose phosphate metabolic process,ACSL3,purine nucleotide metabolic process,1
+Cell adhesion molecules,CLDN4,cell-cell adhesion,1
+Scavenging by Class A Receptors,APOE,Ferroptosis,1
+Iron uptake and transport,COL4A1,Ferroptosis,1
+negative regulation of catalytic activity,ANXA1,negative regulation of molecular function,1
+negative regulation of transferase activity,APOE,negative regulation of molecular function,1
+Neutrophil degranulation,BST2,Neutrophil degranulation,1
+regulation of membrane permeability,BNIP3,mitochondrion organization,1
+mitochondrial transport,CLDN3,mitochondrion organization,1
+mitochondrial membrane organization,VDAC2,mitochondrion organization,1
+Amoebiasis,CXCL1,Spinal cord injury,1
+cellular response to lipid,CXCL2,Spinal cord injury,1
+response to bacterium,ICAM1,Spinal cord injury,1
+Cytokine Signaling in Immune system,ANXA1,Cytokine Signaling in Immune system,1
+Signaling by Interleukins,CCND1,Cytokine Signaling in Immune system,1
+Interleukin-4 and Interleukin-13 signaling,BIRC3,Cytokine Signaling in Immune system,1
+positive regulation of transferase activity,ANXA1,regulation of transferase activity,1
+regulation of MAPK cascade,BIRC3,regulation of transferase activity,1
+positive regulation of phosphorus metabolic process,CCND1,regulation of transferase activity,1
+positive regulation of phosphate metabolic process,BST2,regulation of transferase activity,1
+positive regulation of kinase activity,CEBPD,regulation of transferase activity,1
+positive regulation of MAPK cascade,FN1,regulation of transferase activity,1
+positive regulation of phosphorylation,ICAM1,regulation of transferase activity,1

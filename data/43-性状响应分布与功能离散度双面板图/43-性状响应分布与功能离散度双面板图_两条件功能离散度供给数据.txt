@@ -1,0 +1,23 @@
+sample	Control1	Control2	Control3	Warming1	Warming2	Warming3
+Leaf longevity	45	64	81	88	42	69
+Reproductive phase	40	74	55	38	46	42
+Height	56	35	71	89	70	55
+Leaf area	41	57	46	30	47	36
+Specific leaf area	50	82	37	57	36	59
+Leaf dry matter content	52	51	72	80	30	47
+Leaf N concentration	58	45	71	89	50	79
+Leaf P concentration	40	38	75	38	31	85
+Leaf Mg concentration	90	78	57	34	47	37
+Net photosynthetic rate	32	32	65	45	45	59
+Stomatal conductance	39	44	61	73	32	83
+Intercellular CO2 concentration	64	87	55	51	42	84
+Transpiration rate	58	90	78	79	61	38
+Chlorophyll content	65	82	54	69	80	65
+Photosynthetic N use efficiency	30	57	47	77	72	81
+Photosynthetic P use efficiency	76	88	42	55	67	64
+Average diameter	74	39	81	88	61	85
+Specific root length	32	64	61	77	41	39
+Specific root area	90	48	81	79	35	56
+Root tissue density	69	39	50	82	58	57
+Root N concentration	86	63	77	48	57	90
+Root P concentration	37	50	70	74	59	39

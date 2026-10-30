@@ -1,0 +1,15 @@
+﻿GroupID,Category,Description,LogP,Log(q-value),Count,Generatio
+3_Summary,KEGG Pathway,Thermogenesis,-14.65994722,-12.092,45,0.6
+4_Summary,GO Biological Processes,ribosome assembly,-11.46212733,-8.948,22,0.5
+5_Summary,WikiPathways,VEGFA-VEGFR2 signaling,-10.84033875,-8.351,34,0.5
+6_Summary,GO Biological Processes,regulation of apoptotic signaling pathway,-9.452992003,-7.056,23,0.45
+7_Summary,KEGG Pathway,Kaposi sarcoma-associated herpesvirus infection,-8.751963922,-6.374,12,0.4
+8_Summary,GO Biological Processes,purine nucleotide metabolic process,-8.287848225,-5.915,13,0.3
+9_Summary,GO Biological Processes,cell-cell adhesion,-8.046269918,-5.678,12,0.25
+10_Summary,WikiPathways,Ferroptosis,-7.719924057,-5.369,34,0.2
+11_Summary,GO Biological Processes,negative regulation of molecular function,-7.220122618,-4.895,23,0.19
+12_Summary,Reactome Gene Sets,Neutrophil degranulation,-7.168200871,-4.851,55,0.18
+13_Summary,GO Biological Processes,mitochondrion organization,-7.045888185,-4.737,12,0.15
+14_Summary,WikiPathways,Spinal cord injury,-6.94528122,-4.644,8,0.1
+15_Summary,Reactome Gene Sets,Cytokine Signaling in Immune system,-6.910381222,-4.617,6,0.1
+16_Summary,GO Biological Processes,regulation of transferase activity,-6.899695648,-4.610,7,0.1

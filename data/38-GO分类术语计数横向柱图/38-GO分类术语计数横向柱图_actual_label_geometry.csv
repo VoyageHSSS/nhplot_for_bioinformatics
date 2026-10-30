@@ -1,0 +1,42 @@
+"label","x_mm","y_mm","size","role","just","color","rotation","face","family","panel","bar_id","left_mm","right_mm","bottom_mm","top_mm"
+"response to ketone",112.95,17.205,12.7,"term_label","right","#111111",0,"plain","Arial","bars",1,74.8413872612848,112.95,15.0988888888889,19.3111111111111
+"response to reactive oxygen species",112.95,21.615,12.7,"term_label","right","#111111",0,"plain","Arial","bars",2,40.4780067274306,112.95,19.49125,23.73875
+"cellular response to oxidative stress",112.95,26.025,12.7,"term_label","right","#111111",0,"plain","Arial","bars",3,41.9787247721355,112.95,23.9188888888889,28.1311111111111
+"response to decreased oxygen levels",112.95,30.435,12.7,"term_label","right","#111111",0,"plain","Arial","bars",4,38.9794763183594,112.95,28.31125,32.55875
+"response to xenobiotic stimulus",112.95,34.845,12.7,"term_label","right","#111111",0,"plain","Arial","bars",5,50.4426870388455,112.95,32.7388888888889,36.9511111111111
+"response to steroid hormone",112.95,39.255,12.7,"term_label","right","#111111",0,"plain","Arial","bars",6,55.918339029948,112.95,37.1488888888889,41.3611111111111
+"cellular response to drug",112.95,43.665,12.7,"term_label","right","#111111",0,"plain","Arial","bars",7,63.8878956434462,112.95,41.54125,45.78875
+"response to oxygen levels",112.95,48.075,12.7,"term_label","right","#111111",0,"plain","Arial","bars",8,61.1467881944445,112.95,45.95125,50.19875
+"response to oxidative stress",112.95,52.485,12.7,"term_label","right","#111111",0,"plain","Arial","bars",9,57.4168694390191,112.95,50.3788888888889,54.5911111111111
+"response to lipopolysaccharide",112.95,56.895,12.7,"term_label","right","#111111",0,"plain","Arial","bars",10,51.4336859809028,112.95,54.77125,59.01875
+"protein kinase complex",112.95,61.305,12.7,"term_label","right","#111111",0,"plain","Arial","bars",11,67.1277840169271,112.95,59.1988888888889,63.4111111111111
+"integral component of presynaptic membrane",112.95,65.715,12.7,"term_label","right","#111111",0,"plain","Arial","bars",12,23.0469259982639,112.95,63.5736111111111,67.8563888888889
+"intrinsic component of presynaptic membrane",112.95,70.125,12.7,"term_label","right","#111111",0,"plain","Arial","bars",13,22.5547079806858,112.95,67.9836111111111,72.2663888888889
+"integral component of synaptic membrane",112.95,74.535,12.7,"term_label","right","#111111",0,"plain","Arial","bars",14,29.5223274739584,112.95,72.3936111111111,76.6763888888889
+"intrinsic component of synaptic membrane",112.95,78.945,12.7,"term_label","right","#111111",0,"plain","Arial","bars",15,29.0301094563803,112.95,76.8036111111111,81.0863888888889
+"RNA polymerase II transcription factor complex",112.95,83.355,12.7,"term_label","right","#111111",0,"plain","Arial","bars",16,19.327945421007,112.95,81.2136111111111,85.4963888888889
+"nuclear transcription factor complex",112.95,87.765,12.7,"term_label","right","#111111",0,"plain","Arial","bars",17,42.2303028700087,112.95,85.64125,89.88875
+"membrane raft",112.95,92.175,12.7,"term_label","right","#111111",0,"plain","Arial","bars",18,83.817256266276,112.95,90.4745833333333,93.8754166666667
+"membrane microdomain",112.95,96.585,12.7,"term_label","right","#111111",0,"plain","Arial","bars",19,64.6448175726997,112.95,94.9022222222222,98.2677777777778
+"membrane region",112.95,100.995,12.7,"term_label","right","#111111",0,"plain","Arial","bars",20,77.8362604437934,112.95,98.87125,103.11875
+"adrenergic receptor activity",112.95,105.405,12.7,"term_label","right","#111111",0,"plain","Arial","bars",21,59.1626026746962,112.95,103.28125,107.52875
+"histone kinase activity",112.95,109.815,12.7,"term_label","right","#111111",0,"plain","Arial","bars",22,69.3701105414497,112.95,107.69125,111.93875
+"catecholamine binding",112.95,114.225,12.7,"term_label","right","#111111",0,"plain","Arial","bars",23,68.3659857855903,112.95,112.10125,116.34875
+"G protein-coupled amine receptor activity",112.95,118.635,12.7,"term_label","right","#111111",0,"plain","Arial","bars",24,31.2702483452691,112.95,116.493611111111,120.776388888889
+"heme binding",112.95,123.045,12.7,"term_label","right","#111111",0,"plain","Arial","bars",25,86.0486446126302,112.95,120.92125,125.16875
+"nuclear receptor activity",112.95,127.455,12.7,"term_label","right","#111111",0,"plain","Arial","bars",26,65.6380041503907,112.95,125.33125,129.57875
+"steroid hormone receptor activity",112.95,131.865,12.7,"term_label","right","#111111",0,"plain","Arial","bars",27,47.9575329589844,112.95,129.74125,133.98875
+"RNA polymerase II transcription factor binding",112.95,136.275,12.7,"term_label","right","#111111",0,"plain","Arial","bars",28,21.5615214029948,112.95,134.133611111111,138.416388888889
+"ubiquitin protein ligase binding",112.95,140.685,12.7,"term_label","right","#111111",0,"plain","Arial","bars",29,52.671887749566,112.95,138.56125,142.80875
+"ubiquitin-like protein ligase binding",112.95,145.095,12.7,"term_label","right","#111111",0,"plain","Arial","bars",30,44.4573159450955,112.95,142.97125,147.21875
+"0",114.45,12.1290277777778,13.4,"x_tick","centre","#111111",0,"plain","Arial","bars",NA,113.135472140842,115.764527859158,10.3580555555556,13.9
+"10",129.377027027027,12.1290277777778,13.4,"x_tick","centre","#111111",0,"plain","Arial","bars",NA,126.747971308711,132.006082745343,10.3580555555556,13.9
+"20",144.304054054054,12.1290277777778,13.4,"x_tick","centre","#111111",0,"plain","Arial","bars",NA,141.674998335738,146.93310977237,10.3580555555556,13.9
+"30",159.231081081081,12.1290277777778,13.4,"x_tick","centre","#111111",0,"plain","Arial","bars",NA,156.602025362765,161.860136799397,10.3580555555556,13.9
+"Count",142.065,7.08125,14,"x_title","centre","#111111",0,"plain","Arial","figure",NA,135.475393608941,148.654606391059,5.20444444444445,8.95805555555556
+"Term",3.04152777777778,81.15,14,"y_title","centre","#111111",90,"plain","Arial","figure",NA,1.2,4.88305555555556,75.3887668185764,86.9112331814236
+"ONTOLOGY",178.008943684896,94.15,14,"legend_title","left","#111111",0,"plain","Arial","figure",NA,178.008943684896,206,92.2731944444445,96.0268055555556
+"BP",186.008943684896,86.2731944444445,12,"legend_label","left","#111111",0,"plain","Arial","figure",NA,186.008943684896,191.656144205729,84.69625,87.8501388888889
+"CC",186.008943684896,78.2731944444445,12,"legend_label","left","#111111",0,"plain","Arial","figure",NA,186.008943684896,192.123299153646,76.6609722222222,79.8854166666667
+"MF",186.008943684896,70.2731944444445,12,"legend_label","left","#111111",0,"plain","Arial","figure",NA,186.008943684896,192.121232096354,68.69625,71.8501388888889
+"Supplied GO term counts; overlapping genes are not independent totals; no enrichment test recomputed.",105,2.15361111111111,6.5,"caption","centre","#111111",0,"plain","Arial","figure",NA,51.7816290961372,158.218370903863,1,3.30722222222222

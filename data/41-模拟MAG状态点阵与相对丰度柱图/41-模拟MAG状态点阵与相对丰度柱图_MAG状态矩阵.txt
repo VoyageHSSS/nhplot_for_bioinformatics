@@ -1,0 +1,10 @@
+sample	RYN_227	RYN_347	RNY_176	RNY_82	RNY_171	RNY_169	RNY_216	RNY_79	RNY_74	RNY_123	RNY_447	RNY_95
+catA									Expressed			Expressed
+catB												
+catC	Gene encoded		Gene encoded		Gene encoded				Gene encoded			Gene encoded
+pcaGH		Gene encoded	Expressed	Gene encoded	Expressed	Gene encoded	Expressed	Gene encoded	Gene encoded		Expressed	Expressed
+pcaB		Expressed		Gene encoded	Gene encoded	Gene encoded	Expressed	Gene encoded	Gene encoded	Gene encoded	Expressed	Gene encoded
+PcaC	Expressed	Gene encoded	Gene encoded	Gene encoded	Gene encoded	Gene encoded	Expressed	Gene encoded	Gene encoded		Expressed	Expressed
+pcaD	Gene encoded	Expressed	Expressed	Expressed	Expressed		Gene encoded	Gene encoded	Expressed		Gene encoded	Gene encoded
+pcaIJ				Gene encoded		Expressed	Expressed	Expressed	Expressed		Gene encoded	Gene encoded
+pcaF												

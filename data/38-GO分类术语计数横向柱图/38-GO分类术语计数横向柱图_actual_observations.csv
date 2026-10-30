@@ -1,0 +1,31 @@
+"source_row","source_column","ontology","term","term_id","count","order_position"
+10,"Count","BP","response to ketone","BP | response to ketone",25,1
+4,"Count","BP","response to reactive oxygen species","BP | response to reactive oxygen species",29,2
+8,"Count","BP","cellular response to oxidative stress","BP | cellular response to oxidative stress",30,3
+9,"Count","BP","response to decreased oxygen levels","BP | response to decreased oxygen levels",32,4
+2,"Count","BP","response to xenobiotic stimulus","BP | response to xenobiotic stimulus",33,5
+7,"Count","BP","response to steroid hormone","BP | response to steroid hormone",33,6
+5,"Count","BP","cellular response to drug","BP | cellular response to drug",34,7
+3,"Count","BP","response to oxygen levels","BP | response to oxygen levels",35,8
+6,"Count","BP","response to oxidative stress","BP | response to oxidative stress",36,9
+1,"Count","BP","response to lipopolysaccharide","BP | response to lipopolysaccharide",37,10
+20,"Count","CC","protein kinase complex","CC | protein kinase complex",9,11
+14,"Count","CC","integral component of presynaptic membrane","CC | integral component of presynaptic membrane",10,12
+16,"Count","CC","intrinsic component of presynaptic membrane","CC | intrinsic component of presynaptic membrane",10,13
+17,"Count","CC","integral component of synaptic membrane","CC | integral component of synaptic membrane",12,14
+18,"Count","CC","intrinsic component of synaptic membrane","CC | intrinsic component of synaptic membrane",12,15
+15,"Count","CC","RNA polymerase II transcription factor complex","CC | RNA polymerase II transcription factor complex",13,16
+19,"Count","CC","nuclear transcription factor complex","CC | nuclear transcription factor complex",13,17
+11,"Count","CC","membrane raft","CC | membrane raft",21,18
+12,"Count","CC","membrane microdomain","CC | membrane microdomain",21,19
+13,"Count","CC","membrane region","CC | membrane region",21,20
+26,"Count","MF","adrenergic receptor activity","MF | adrenergic receptor activity",6,21
+27,"Count","MF","histone kinase activity","MF | histone kinase activity",6,22
+23,"Count","MF","catecholamine binding","MF | catecholamine binding",7,23
+24,"Count","MF","G protein-coupled amine receptor activity","MF | G protein-coupled amine receptor activity",9,24
+29,"Count","MF","heme binding","MF | heme binding",11,25
+21,"Count","MF","nuclear receptor activity","MF | nuclear receptor activity",12,26
+22,"Count","MF","steroid hormone receptor activity","MF | steroid hormone receptor activity",12,27
+28,"Count","MF","RNA polymerase II transcription factor binding","MF | RNA polymerase II transcription factor binding",12,28
+30,"Count","MF","ubiquitin protein ligase binding","MF | ubiquitin protein ligase binding",15,29
+25,"Count","MF","ubiquitin-like protein ligase binding","MF | ubiquitin-like protein ligase binding",17,30
